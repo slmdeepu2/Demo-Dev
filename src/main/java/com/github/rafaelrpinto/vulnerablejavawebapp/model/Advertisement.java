@@ -20,10 +20,6 @@ public class Advertisement implements Serializable {
 	private String text;
 	private User user;
 
-	public Advertisement() {
-
-	}
-
 	public int getId() {
 		return id;
 	}
