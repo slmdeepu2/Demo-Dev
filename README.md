@@ -6,7 +6,7 @@ The application uses Spring Boot and an embedded H2 database that resets every t
 
 The application will run on **HTTPS port 9000**. If this port is not available you will need to change the `application.properties` file on the source folder with the new one. (if you are using docker you just need to map the container's 9000 port to another port in the host).
 sds
-## Running the application manually
+## Running the application manuallyasda
 
 If you have a Java 8 + Maven 3.x development environment, just import the project on your IDE and run the class `com.github.rafaelrpinto.vulnerablejavawebapp.config.AppLauncher`.
 
