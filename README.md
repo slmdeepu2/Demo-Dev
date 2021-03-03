@@ -12,7 +12,7 @@ If you have a Java 8 + Maven 3.x development environment, just import the projec
 
 ## Running with docker
 
-If your workstation is not configured for Java 8 development the easiest way to run the application is with Docker.
+If your workstation is not configurvdssed for Java 8 development the easiest way to run the application is with Docker.
 
 ```bash
 # gets the code
